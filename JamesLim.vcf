@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lim;James;;;
+FN:James Lim
+ORG: Bell & Ross (Sincere Watch Limited)
+TITLE:Customer Relations Consultant
+TEL;TYPE=CELL,VOICE:+6586007007
+TEL;TYPE=WORK,VOICE:+6566887175
+EMAIL:james.lim@sincere.com.sg
+URL:https://www.sincerewatch.com
+ADR;TYPE=WORK:;;2 Bayfront Avenue, The Shoppes at MBS, #B2M-203;;;018972;Singapore
+END:VCARD
